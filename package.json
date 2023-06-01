@@ -1,0 +1,23 @@
+{
+  "name": "jesttest",
+  "version": "1.0.0",
+  "description": "unit testing using jest",
+  "main": "sum.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhayrsr/jestTest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhayrsr/jestTest/issues"
+  },
+  "homepage": "https://github.com/abhayrsr/jestTest#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
